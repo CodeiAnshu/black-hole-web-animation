@@ -33,9 +33,7 @@ Open the target webpage and open DevTools Console.
 Run:
 
 ```js
-const s = document.createElement("script");
-s.src = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/blackhole.js";
-document.body.appendChild(s);
+(()=>{const s=document.createElement("script");s.src="https://raw.githubusercontent.com/CodeiAnshu/black-hole-web-animation/main/Console-Space/blackhole.js";document.body.appendChild(s)})()
 ```
 
 Replace `USERNAME/REPOSITORY` with your GitHub username and repository name.
