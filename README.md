@@ -23,7 +23,7 @@ Upload `blackhole.js` to a GitHub repository.
 Example Raw GitHub URL:
 
 ```text
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/blackhole.js
+https://your.github.io/folder/Console-Space/blackhole.js
 ```
 
 ### 2. Run it on a webpage
