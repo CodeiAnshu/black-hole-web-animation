@@ -36,6 +36,10 @@ Run:
 import("https://codeianshu.github.io/black-hole-web-animation/Console-Space/blackhole.js")
 
 ```
+Also Bookmark:
+```
+javascript:(function(){var s=document.createElement('script');s.src='https://codeianshu.github.io/black-hole-web-animation/Console-Space/blackhole.js';document.body.appendChild(s)})()
+```
 
 Replace `USERNAME/REPOSITORY` with your GitHub username and repository name.
 
